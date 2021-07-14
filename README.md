@@ -4,7 +4,6 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Welcome file</title>
   <link rel="stylesheet" href="https://stackedit.io/style.css" />
 </head>
 
@@ -29,7 +28,7 @@ I’m <strong>Tohid Abrian</strong> from iran a <strong>Python</strong> Lover.</
 <br>
 <hr>
 <p><a href="http://tohid-design.ir">Blog</a> / <a href="https://jobinja.ir/user/LF-5281812">Resume Tohid Abrian</a></p>
-<p>I’m available at <a href="https://www.linkedin.com/in/tohid-abrian-103215174/">Linkedin</a> / <a href="https://instagram.com/_tohid_.ab">Instagram</a></p>
+<p>I’m available at <a href="https://www.linkedin.com/in/tohid-abrian-103215174/">Linkedin</a> / <a href="https://instagram.com/_tohid_.tu">Instagram</a></p>
 </div>
 </body>
 
