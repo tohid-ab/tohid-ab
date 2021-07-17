@@ -27,7 +27,7 @@ I’m <strong>Tohid Abrian</strong> from iran a <strong>Python</strong> Lover.</
 <img src="https://img.icons8.com/color/48/000000/mongodb.png">
 <br>
 <hr>
-<p><a href="http://tohid-design.ir">Blog</a> / <a href="https://jobinja.ir/user/LF-5281812">Resume Tohid Abrian</a></p>
+<p><a href="http://tohid-design.ir">Blog</a> / <a href="https://jobinja.ir/user/LF-5281812/download">Resume Tohid Abrian</a></p>
 <p>I’m available at <a href="https://www.linkedin.com/in/tohid-abrian-103215174/">Linkedin</a> / <a href="https://instagram.com/_tohid_.tu">Instagram</a></p>
 </div>
 </body>
