@@ -20,14 +20,12 @@ I’m <strong>Tohid Abrian</strong> from iran a <strong>Python</strong> Lover.</
 <img src="https://img.icons8.com/color/48/000000/bootstrap.png">
 <img src="https://img.icons8.com/color/48/000000/api-settings.png">
 <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png">
-<img src="https://img.icons8.com/color/48/000000/pycharm.png">
-<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png">
 <br>
 <img src="https://img.icons8.com/color/48/000000/sql.png">
 <img src="https://img.icons8.com/color/48/000000/mongodb.png">
 <br>
 <hr>
-<p><a href="http://tohid-design.ir">Blog</a> / <a href="https://www.uplooder.net/files/fe3db3beb6f288bb8e8b3dddbf28c423/Jobinja-LF-5281812-6.pdf.html">Resume Tohid Abrian</a></p>
+<p><a href="http://tohid-design.ir">Blog</a> / <a href="https://www.uplooder.net/files/41fa264b2c04ad6aea51f5929f93e152/Jobinja-LF-5281812-6.pdf.html">Resume Tohid Abrian</a></p>
 <p>I’m available at <a href="https://www.linkedin.com/in/tohid-abrian-103215174/">Linkedin</a> / <a href="https://instagram.com/_tohid_.tu">Instagram</a></p>
 </div>
 </body>
