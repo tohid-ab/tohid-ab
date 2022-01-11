@@ -22,7 +22,6 @@ I’m <strong>Tohid Abrian</strong> from iran a <strong>Python</strong> Lover.</
 <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png">
 <br>
 <img src="https://img.icons8.com/color/48/000000/sql.png">
-<img src="https://img.icons8.com/color/48/000000/mongodb.png">
 <br>
 <hr>
 <p><a href="http://tohid-design.ir">Blog</a> / <a href="https://www.uplooder.net/files/41fa264b2c04ad6aea51f5929f93e152/Jobinja-LF-5281812-6.pdf.html">Resume Tohid Abrian</a></p>
