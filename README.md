@@ -13,7 +13,6 @@ I’m <strong>Tohid Abrian</strong> from iran a <strong>Python</strong> Lover.</
 <hr>
 <img src="https://img.icons8.com/color/48/000000/python--v1.png">
 <img src="https://img.icons8.com/color/48/000000/linux.png">
-<img src="https://img.icons8.com/color/48/000000/kali-linux.png">
 <img src="https://img.icons8.com/color/48/000000/django.png">
 <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png">
 <img src="https://img.icons8.com/color/48/000000/html-5--v2.png">
