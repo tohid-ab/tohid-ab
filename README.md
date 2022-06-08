@@ -24,7 +24,7 @@ I’m <strong>Tohid Abrian</strong> from iran a <strong>Python</strong> Lover.</
 <br>
 <hr>
 <p><a href="https://iran-django.ir">Blog</a></p>
-<p>I’m available at <a href="https://www.linkedin.com/in/tohid-abrian-103215174/">Linkedin</a> / <a href="https://ipfsbrowser.com/?hash=QmUdyqKWGKZ9Rox1Z2ref3c5mErvZSKCogjrvAW2KGkV1k">Resume</a></p>
+<p>I’m available at <a href="https://www.linkedin.com/in/tohid-abrian-103215174/">Linkedin</a> / <a href="https://uploadb.me/direct/zwkxks6wh4hm/vvvvv.pdf.html">Resume</a></p>
 </div>
 </body>
 
