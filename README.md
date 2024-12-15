@@ -23,7 +23,6 @@ I’m <strong>Tohid Abrian</strong> from iran a <strong>Python</strong> Lover.</
 <img src="https://img.icons8.com/color/48/000000/sql.png">
 <br>
 <hr>
-<p>I’m available at <a href="https://www.linkedin.com/in/tohid-abrian-103215174/">Linkedin</a></p>
 </div>
 </body>
 
